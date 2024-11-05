@@ -1,0 +1,1 @@
+{"name":"Home","id":"pages/home","import":"package:report_reader/pages/home.dart","params":[{"name":"data","isNamed":true,"decoder":"p['data']","encoder":"c.data"}]}
